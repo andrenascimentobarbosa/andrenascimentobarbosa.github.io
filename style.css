@@ -7,7 +7,7 @@
 
 body {
   background: #000;
-  color: #ccc;
+  color: #fff;
 }
 
 .container {
@@ -50,13 +50,11 @@ ul {
 }
 
 li {
-  padding: 5px 0;
-  border-bottom: 1px solid #333;
+  border-bottom: 1px solid #444;
 }
 
 a {
-  color: #ccc;
-  text-decoration: none;
+  color: #fff;
 }
 
 .content {
@@ -71,4 +69,8 @@ a {
 .date {
   margin-bottom: 15px;
   color: #aaa;
+}
+
+.box {
+  border: 1px solid #777;
 }
